@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <SplashScreen>
-
-    <Path>splashscreen/splash</Path> 
+  <Image>
+    <Path>splashscreen/splash</Path>     
+  </Image>
+    
  
-  <!--
-  Caso seja necessario por a posição da imagem
-  <Position>
+  <!--<Position>
     <X></X>
     <Y></Y>
-  </Position>-->
+  </Position>
+  Caso seja necessario por a posição da imagem
+  -->
 </SplashScreen>
