@@ -22,13 +22,11 @@ namespace rpg_projecto_tpsi
             }
             return instance;
         }
-
         public void Save(string path, object obj) {
             using (TextWriter writer = new StreamWriter(path))
             {
                 XmlSerializer xml = new XmlSerializer(Type);
                 xml.Serialize(writer, obj);
-
             }
         }
     }

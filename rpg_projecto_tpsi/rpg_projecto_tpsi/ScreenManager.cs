@@ -34,7 +34,7 @@ namespace rpg_projecto_tpsi
         }
 
         public ScreenManager() {
-            dimensions = new Vector2(840, 480);
+            //dimensions = new Vector2(840, 480);
             currentScreen = new SplashScreen();
             xmlGameScreenManager = new XmlManager<GameScreen>();
             xmlGameScreenManager.Type = currentScreen.Type;          

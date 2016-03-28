@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/sonyVPCJ2L/Desktop/Projecto-TPSI--v2/rpg_projecto_tpsi/rpg_projecto_tpsi/Content/splashscreen/splash.png</SourceFile>
+  <SourceFile>C:/Users/Estagio/Desktop/Projecto-TPSI--v2/rpg_projecto_tpsi/rpg_projecto_tpsi/Content/splashscreen/splash.png</SourceFile>
   <SourceTime>2016-02-27T19:48:57.721435+01:00</SourceTime>
-  <DestFile>C:/Users/sonyVPCJ2L/Desktop/Projecto-TPSI--v2/rpg_projecto_tpsi/rpg_projecto_tpsi/Content/bin/Windows/splashscreen/splash.xnb</DestFile>
-  <DestTime>2016-02-28T20:19:45.9211464+01:00</DestTime>
+  <DestFile>C:/Users/Estagio/Desktop/Projecto-TPSI--v2/rpg_projecto_tpsi/rpg_projecto_tpsi/Content/bin/Windows/splashscreen/splash.xnb</DestFile>
+  <DestTime>2016-03-28T15:08:59.7497421+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

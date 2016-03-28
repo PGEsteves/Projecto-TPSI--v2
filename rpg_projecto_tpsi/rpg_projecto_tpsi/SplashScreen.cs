@@ -25,8 +25,9 @@ namespace rpg_projecto_tpsi
         public override void draw(SpriteBatch spriteBatch)
         {
 
-            //desenha a imagem
-
+            //desenha a imagem pls
+            Image.SourceRect = new Rectangle(0, 0, spriteBatch.GraphicsDevice.Viewport.Width, spriteBatch.GraphicsDevice.Viewport.Height);
+            Image.Position = Vector2.Zero;
             Image.draw(spriteBatch);
             base.draw(spriteBatch);
         }
